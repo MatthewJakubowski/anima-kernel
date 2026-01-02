@@ -56,7 +56,9 @@ The system maps ancient energetic centers (Chakras) to modern computing concepts
 
 ## ​🚀 Why?
 ​Because the barrier to entry in IT is an illusion. You can build sophisticated logic systems on a phone. You can use code to understand yourself.
-​Created by Matthew Jakubowski - Omega Architect Protocol.
+​
+---
+*Created by [Matthew Jakubowski](https://github.com/MatthewJakubowski) - Omega Architect Protocol.*
 
 ## 📡 Origin & Philosophy (The Source Signal)
 
